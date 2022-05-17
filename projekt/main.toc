@@ -1,0 +1,3 @@
+\contentsline {section}{Contents}{\footnotesize 1}{}%
+\contentsline {subsubsection}{EXAMPLE 13.3:}{\footnotesize 1}{}%
+\contentsline {section}{\numberline {0.1} THE FINITE ELEMENT METHOD FOR ELLIPTIC PDE'S }{\footnotesize 14}{}%
